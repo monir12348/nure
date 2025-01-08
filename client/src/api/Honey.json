@@ -1,0 +1,96 @@
+[
+    {
+        "id":1,
+        "image":"/images/honey.jpg",
+        
+        "text2":"প্রাকৃতিক চাকের মধু (1K.G)",
+        "price":"BDT 1200.00",
+           "price2":"BDT (1600.00)"
+
+    } ,
+    {
+        "id":2,
+        "image":"/images/sundarbanhoney.jpg",
+       
+        "text2":"সুন্দরবনের মধু (1K.G)",
+        "price":"BDT 1200.00",
+           "price2":"BDT (1600.00)"
+
+    },
+    {
+        "id":3,
+        "image":"/images/khalishahoney.jpg",
+       
+        "text2":"খলিশা ফুলের মধু (1K.G)",
+        "price":"BDT 1000.00",
+           "price2":"BDT (1200.00)"
+
+    },
+    {
+        "id":4,
+        "image":"/images/bainhoney.jpg",
+      
+        "text2":"বাইন ফুলের মধু (1K.G)",
+        "price":"BDT 800.00",
+         "price2":"BDT (1100.00)"
+
+
+    },
+
+    {
+        "id":5,
+        "image":"/images/kalozirahoney.jpg",
+    
+        "text2":"কালোজিরার মধু (1K.G)",
+        "price":"BDT 900.00",
+         "price2":"BDT (1300.00)"
+
+    },
+
+    {
+        "id":6,
+        "image":"/images/boroyhoney.jpg",
+        
+        "text2":"বড়ই ফুলের মধু (1K.G)",
+        "price":"BDT 700.00",
+         "price2":"BDT (1000.00)"
+
+    },
+
+    {
+        "id":7,
+        "image":"/images/sarishahoney.jpg",
+        
+        "text2":"সরিষা ফুলের মধু (1K.G)",
+        "price":"BDT 600.00",
+         "price2":"BDT (900.00)"
+
+    },
+
+    {
+        "id":8,
+        "image":"/images/lichuhoney.jpg",
+   
+        "text2":"লিচু ফুলের মধু (1K.G)",
+        "price":"BDT 700.00",
+         "price2":"BDT (900.00)"
+
+    },
+    {
+        "id":9,
+        "image":"/images/mountainhoney.jpg",
+        
+        "text2":"পাহাড়ি মধু (1K.G)",
+        "price":"BDT 1600.00",
+         "price2":"BDT (1800.00)"
+
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+]

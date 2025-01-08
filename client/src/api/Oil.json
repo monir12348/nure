@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "image":"/images/coconutoil.jpg",
+        
+        "text2":"নারকেলের তেল (1L)",
+        "price":"BDT 900.00",
+        "price2":"BDT (1400.00)"
+
+    }, 
+    {
+        "id":2,
+        "image":"/images/sarishaoil.jpg",
+       
+        "text2":"কাঠের ঘানির খাটি সরিষার তেল (5L)",
+        "price":"BDT 1100.00",
+        "price2":"BDT (1500.00)"
+       
+
+    },
+
+    {
+        "id":3,
+        "image":"/images/oliveoil.jpg",
+        
+        "text2":"অলিভওয়েল তেল (200ml)",
+        "price":"BDT 350.00",
+        "price2":"BDT (650.00)"
+
+    },
+    {
+        "id":4,
+        "image":"/images/mixednut.jpg",
+        
+        "text2":"মধু মিশ্রিত বাদাম (1K.G)",
+        "price":"BDT 1200.00",
+        "price2":"BDT (1500.00)"
+
+    }
+]
