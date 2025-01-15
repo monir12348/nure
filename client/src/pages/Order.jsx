@@ -27,7 +27,7 @@ const OrderForm = () => {
         body: JSON.stringify(formData),
       });
       if (response.ok) {
-        alert("Order Submitted Successfully!");
+   toast.success("order submitted");
       } else {
         alert("Failed to Submit Order!");
       }
