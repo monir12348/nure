@@ -8,6 +8,8 @@ import AdminDashboard from "./components/Admin";
 import Productdetails from "./pages/Productdetails";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css'
 
 const RouterSetup = () => {
   return (
@@ -41,6 +43,7 @@ const RouterSetup = () => {
             element={
               <div className="px-4 sm:px-[5vw] md:px-[7vw] lg:px-[11vw]">
                 <Nav />
+                <ToastContainer/>
                 <OrderForm />
                 <Footer />
               </div>
